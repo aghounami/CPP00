@@ -65,34 +65,3 @@ DAMNIT ! SORRY STUDENTS, I THOUGHT THIS THING WAS OFF.
 $>./megaphone
 LOUD AND UNBEARABLE FEEDBACK NOISE *
 $>
-## Exercise 01: My Awesome PhoneBook
-
-**Directory: ex01/
-**Files: Makefile, *.cpp, *.{h, hpp}
-**Forbidden Functions: None
-
-Create a phonebook program with two classes: PhoneBook and Contact.
-PhoneBook
-
-    Contains an array of contacts (maximum of 8). If adding a 9th contact, replace the oldest one.
-    No dynamic allocation allowed.
-
-Contact
-
-    Represents a phonebook contact.
-
-The phonebook should start empty and accept three commands: ADD, SEARCH, and EXIT.
-ADD
-
-Prompts the user to input contact information.
-SEARCH
-
-Displays a list of saved contacts. Prompts the user to select a contact to view.
-EXIT
-
-Quits the program.
-## Exercise 02: The Job of Your Dreams
-
-**Directory: ex02/
-**Files: Makefile, Account.cpp, Account.hpp, tests.cpp
-**Forbidden Functions: None
