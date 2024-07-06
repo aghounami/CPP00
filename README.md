@@ -8,7 +8,7 @@ Welcome to Module 00 of your C++ journey! This module aims to introduce you to t
 
 1. [Introduction](#introduction)
 2. [General Rules](#general-rules)
-3. [Exercise 00: Megaphone](#exercise-00-megaphone)
+3. [Exercise 00: Megaphone](#ex00)
 4. [Exercise 01: My Awesome PhoneBook](#exercise-01-my-awesome-phonebook)
 5. [Exercise 02: The Job of Your Dreams](#exercise-02-the-job-of-your-dreams)
 6. [Submission and Peer-Evaluation](#submission-and-peer-evaluation)
