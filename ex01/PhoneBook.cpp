@@ -29,7 +29,7 @@ void    PhoneBook::searchContact()
     }
     std::cout << "\033[1;37m" << "Enter an index: " << "\033[0m";
     getline(std::cin, input);
-    if (input.length() == 1 && input[0] >= '0' && input[0] <= '7')
+    if (input.length() == 1 && input[0] >= '0' && input[0] <= '7' && input[0] - '0' < index)
     {
         i = input[0] - '0';
         std::cout << "\033[1;37m" 

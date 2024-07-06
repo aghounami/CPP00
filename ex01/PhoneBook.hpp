@@ -6,9 +6,13 @@
 #include <iomanip>
 
 class PhoneBook {
-    public:
+    private:
         std::string Contact[8][5];
         int index;
+    public:
+
+        PhoneBook();
+        ~PhoneBook();
         void searchContact();
         void addContact();
         void name(int i);

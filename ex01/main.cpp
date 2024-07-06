@@ -1,10 +1,18 @@
 #include "PhoneBook.hpp"
 
+PhoneBook::PhoneBook()
+{
+    index = 0;
+}
+
+PhoneBook::~PhoneBook()
+{
+}
+
 int main()
 {
     PhoneBook all;
     std::string command;
-    all.index = 0;
 
     while (1)
     {
