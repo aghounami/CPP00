@@ -8,9 +8,9 @@ This document contains the exercises of Module 00 from C++ modules.
 ## Contents
 I. [Introduction](#introduction)  
 II. [General rules](#general-rules)  
-III. [Exercise 00: Megaphone](#ex00)  
-IV. [Exercise 01: My Awesome PhoneBook](#ex01)  
-V. [Exercise 02: The Job Of Your Dreams](#ex02)  
+III. [Exercise 00: Megaphone](ex00)  
+IV. [Exercise 01: My Awesome PhoneBook](ex01)  
+V. [Exercise 02: The Job Of Your Dreams](ex02)  
 VI. [Submission and peer-evaluation](#submission-and-peer-evaluation)
 
 ---
