@@ -12,6 +12,7 @@ III. [Exercise 00: Megaphone](#exercise-00-megaphone)
 IV. [Exercise 01: My Awesome PhoneBook](#exercise-01-my-awesome-phonebook)  
 V. [Exercise 02: The Job Of Your Dreams](#exercise-02-the-job-of-your-dreams)  
 VI. [Submission and peer-evaluation](#submission-and-peer-evaluation)
+ **Exercise 00:** [ex00](ex00)
 
 ---
 
